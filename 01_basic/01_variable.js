@@ -1,15 +1,18 @@
-const accountID = 12345
-let accountEmail = "parvej.alam@codeclouds.in";
-var accountpassword = "1234343"
-accountCity = "Bihar"
+
+
+const accountID = 13133
+let accountEmail = "parvej.alam@codeclouds.in"
+var accountPassword = "123456789"
+accounCity = "Kolkata"
+let accountState;
 
 //accountID = 2 //Not allowed
 accountEmail = "pa@pa.com"
 accountpassword = "11223344"
-accountCity = "Bangal"
-let accountState;
+accountCity = "Patna"
 
-console.log(accountID)
+
+//console.log(accountID)
 
 /*
 Prefer not to use var
